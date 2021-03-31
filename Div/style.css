@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.kutu1{
+    width: 600px;
+    height: 400px;
+    background-image: url(gorsel.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    display: inline-block;
+    vertical-align: top;
+}
+.kutu2{
+    width: 600px;
+    height: 400px;
+    background-image: url(gorsel2.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    display: inline-block;
+    vertical-align: top;
+}
+h1{
+    margin-left: 315px;
+    margin-top: 100px;
+    font-family: Arial;
+    font-size: 30px;
+    color: #3a3a3a;
+    font-weight: normal;
+}
+p{
+    margin-left: 315px;
+    margin-top: 20px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #3a3a3a;
+}
+.buton{
+    margin-left: 315px;
+    margin-top: 20px;
+    display: block;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #3a3a3a;
+    text-decoration: none;
+    border: 3px #000 solid;
+    border-radius: 10px;
+    width: 203px;
+    height: 42px;
+    text-align: center;
+    line-height: 42px;
+    transition: 0.3s;
+}
+.kalin_yazi{
+    font-weight: bold;
+}
+.buton:hover{
+  background: #3a3a3a;
+  color: white;
+}
