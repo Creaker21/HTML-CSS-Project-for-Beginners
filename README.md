@@ -1,2 +1,2 @@
 # HTML-CSS-Project-for-Beginners
-Practice projects for people new to Front End development.
+Application projects for people beginner Front End development
